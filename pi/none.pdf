@@ -1,0 +1,29 @@
+Job start at Tue Apr 14 19:32:34 CDT 2020
+Currently Loaded Modulefiles:
+ 1) shared   2) slurm/18.08.9   3) gdb/8.2   4) gcc/8.2.0  
+
+./pi 10000000
+pi: 3.14159
+
+Number of OpenMP Threads: 8
+
+./pisync 10000000
+pi: 3.14159
+elapsed time: 0.021414
+
+./piredux1 10000000
+pi: 3.14159
+elapsed time: 0.0340287
+
+./piredux2 10000000
+pi: 3.14159
+elapsed time: 0.0225256
+
+./piredux3 10000000
+pi: 3.14159
+elapsed time: 0.0210788
+
+./pireduxbadd 10000000
+pi: 25.1327
+time: 0.115828 ms
+Job end at Tue Apr 14 19:32:35 CDT 2020

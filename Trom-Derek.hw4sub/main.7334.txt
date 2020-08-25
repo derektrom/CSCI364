@@ -1,0 +1,77 @@
+Job start at Fri Apr 24 23:39:58 CDT 2020
+Currently Loaded Modulefiles:
+ 1) shared   2) slurm/18.08.9   3) gdb/8.2   4) gcc/8.2.0  
+
+
+static 1 Threads 1
+
+Elapsed time: 74.4958
+Elapsed time: 73.5257
+Elapsed time: 73.2648
+Elapsed time: 74.2156
+Elapsed time: 73.6765
+
+static 1 Threads 4
+
+Elapsed time: 18.7438
+Elapsed time: 18.784
+Elapsed time: 18.9052
+Elapsed time: 19.2428
+Elapsed time: 18.751
+
+static 1 Threads 8
+
+Elapsed time: 9.89113
+Elapsed time: 9.9387
+Elapsed time: 9.68793
+Elapsed time: 9.87083
+Elapsed time: 9.71805
+
+static 4 Threads 1
+
+Elapsed time: 72.8726
+Elapsed time: 74.4653
+Elapsed time: 74.2041
+Elapsed time: 73.4151
+Elapsed time: 36.8634
+
+static 4 Threads 4
+
+Elapsed time: 13.4904
+Elapsed time: 15.8457
+Elapsed time: 13.3101
+Elapsed time: 16.3929
+Elapsed time: 13.7432
+
+static 4 Threads 8
+
+Elapsed time: 8.92698
+Elapsed time: 8.93551
+Elapsed time: 9.27064
+Elapsed time: 9.34476
+Elapsed time: 9.25655
+
+static 8 Threads 1
+
+Elapsed time: 37.2373
+Elapsed time: 32.265
+Elapsed time: 37.042
+Elapsed time: 31.7163
+Elapsed time: 37.3364
+
+static 8 Threads 4
+
+Elapsed time: 13.8289
+Elapsed time: 15.9056
+Elapsed time: 12.996
+Elapsed time: 16.2708
+Elapsed time: 13.8572
+
+static 8 Threads 8
+
+Elapsed time: 9.23468
+Elapsed time: 9.25752
+Elapsed time: 9.2034
+Elapsed time: 9.15318
+Elapsed time: 9.35219
+Job end at Sat Apr 25 00:01:14 CDT 2020
